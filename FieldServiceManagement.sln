@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldServiceManagement.API.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldServiceManagement.MauiApp.Tests", "tests\FieldServiceManagement.MauiApp.Tests\FieldServiceManagement.MauiApp.Tests.csproj", "{EE7254F6-5532-4A78-BFBA-19A104424389}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldServiceManagement.BlazorAdmin.Tests", "tests\FieldServiceManagement.BlazorAdmin.Tests\FieldServiceManagement.BlazorAdmin.Tests.csproj", "{B3C4D5E6-F7A8-49B0-C1D2-E3F4A5B6C7D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{EE7254F6-5532-4A78-BFBA-19A104424389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7254F6-5532-4A78-BFBA-19A104424389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7254F6-5532-4A78-BFBA-19A104424389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C4D5E6-F7A8-49B0-C1D2-E3F4A5B6C7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C4D5E6-F7A8-49B0-C1D2-E3F4A5B6C7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C4D5E6-F7A8-49B0-C1D2-E3F4A5B6C7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C4D5E6-F7A8-49B0-C1D2-E3F4A5B6C7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F5962340-4247-42C5-B2BD-34F6EBF25978} = {97407C6C-3D51-4961-ADBA-5791AC479DD6}
@@ -67,5 +73,6 @@ Global
 		{FA2F08F1-53D1-4CFE-96C6-F2E4C370BC3E} = {A7243A6C-9940-44DA-8EE5-A98DA217D16A}
 		{04CE0642-039A-462E-9A6E-1AC2132C593F} = {A7243A6C-9940-44DA-8EE5-A98DA217D16A}
 		{EE7254F6-5532-4A78-BFBA-19A104424389} = {A7243A6C-9940-44DA-8EE5-A98DA217D16A}
+		{B3C4D5E6-F7A8-49B0-C1D2-E3F4A5B6C7D8} = {A7243A6C-9940-44DA-8EE5-A98DA217D16A}
 	EndGlobalSection
 EndGlobal
